@@ -3,6 +3,11 @@ table {
     border-spacing: 1px;
     padding: 1px;
 }
+table#t11{
+    border: 1px solid black;
+    border-spacing: 1px;
+    padding: 1px;
+}
 #table-1{
     width: 100%;
 }
@@ -23,13 +28,15 @@ table {
 
 .green {
     background-color: green;
+    height: 20px;
 }
 #t-image{
     width: 200px;
-    height: 200px;
     
+
 }
 
 .blue {
     background-color: blue;
+    height: 20px;
 }
